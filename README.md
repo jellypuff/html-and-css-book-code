@@ -7,3 +7,6 @@ Table Style examples can be accessed from the pages below:
 - [Financial Table](https://jellypuff.github.io/html-and-css-book-code/table-samples/financial.html)
 - [Column Styles](https://jellypuff.github.io/html-and-css-book-code/table-samples/column-styles.html)
 - [Alternating Rows](https://jellypuff.github.io/html-and-css-book-code/table-samples/column-options.html) 
+
+# HTML Escape Codes
+All HTML Escape Codes can be found [here](http://www.htmlandcssbook.com/extras/html-escape-codes/).
